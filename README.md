@@ -1,2 +1,2 @@
 # bzq2425
-flounder assesment from Baltic subdivisions 24 and 25 (2019)
+assesment of flounder from Baltic subdivisions 24 and 25 (2019)
